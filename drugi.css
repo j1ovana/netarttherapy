@@ -1,0 +1,59 @@
+body {
+  background-image: url('pozadina.png');
+}
+.holder{
+  width: 100%;
+  height: 100%;
+  position: relative;
+
+}
+
+.holder img {
+  width: 85%;
+  height: 85%;
+object-fit: cover;
+align-items: center;
+display: block;
+margin-left: 7.5%;
+margin-right: 7.5%;
+}
+
+p{
+ word-wrap: break-word;
+ z-index:100
+}
+
+.tekst {
+  display:block;
+  position: fixed;
+  width: 100%;
+  bottom: 50px;
+}
+
+.tekst p {
+  font-size: 15px;
+font-family: 'Source Serif 4', serif;
+  font-weight: 300;
+  word-wrap: break-word;
+  text-align: center;
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+}

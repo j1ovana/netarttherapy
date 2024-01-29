@@ -1,0 +1,47 @@
+body {
+  background-image: url('./slike/sedam.png');
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+p{
+ word-wrap: break-word;
+ z-index:100
+}
+
+.tekst {
+  display:block;
+  position: fixed;
+  width: 100%;
+  bottom: 50vh;
+}
+
+.tekst p {
+  font-size: 15px;
+font-family: 'Source Serif 4', serif;
+  font-weight: 300;
+  word-wrap: break-word;
+  text-align: center;
+}
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+}
