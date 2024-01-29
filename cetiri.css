@@ -1,6 +1,5 @@
 body {
-  background-image: url('./slike/cetiri.jpg');
-
+  background-image: url('./slike/cetiri.JPG');
   background-repeat: no-repeat;
   background-size: cover;
 
@@ -31,7 +30,7 @@ p{
   display:block;
   position: fixed;
   width: 100%;
-  bottom: 33vh;
+  top: 20vh;
 }
 
 .tekst p {

@@ -37,3 +37,23 @@ font-family: 'Source Serif 4', serif;
   word-wrap: break-word;
   text-align: center;
 }
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
+a:active {
+  color: black;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+}
