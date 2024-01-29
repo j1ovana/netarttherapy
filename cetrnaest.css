@@ -30,7 +30,7 @@ p{
   display:block;
   position: fixed;
   width: 100%;
-  bottom: 50vh;
+  bottom: 45vh;
 }
 
 .tekst p {
@@ -42,19 +42,19 @@ font-family: 'Source Serif 4', serif;
 }
 
 a:link {
-  color: black;
+  color: white;
 }
 
 a:hover {
-  color: black;
+  color: white;
 }
 
 a:visited {
-  color: black;
+  color: white;
 }
 
 a:active {
-  color: black;
+  color: white;
 }
 
 a:link, a:visited {
